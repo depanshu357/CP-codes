@@ -1,0 +1,35 @@
+vector<int> primeFactors;
+int getNoOfPrimeFactors(int n){
+    int count =0;
+    for(int i=0;i<primeFactors.size();i++){
+        if(n%primeFactors[i]==0){
+            count++;
+            while(n%primeFactors[i]==0){
+                n/=primeFactors[i];
+            }
+        }
+    }
+    return count;
+}
+int findComb(int x,int y,int p,grid,vis,dp){
+    if(vis[x][y]) return INT_MAX;
+    if(dp[x][y]!=-1) return dp[x][y];
+    int mini = INT_MAX;
+    vis[x][y] = 1;
+    for(int i=x-p;i<=x+p;i++){
+        for(int j=y-p;j<=y+p;j++){
+            if(if boundary conditions and constraints match){
+                mini = min(min,sqrt(grid[x][y]) + findComb(i,j,getNoOfPrimeFactors[i-1][j-1],grid,vis,dp)));
+            }
+        }
+    }
+    return dp[x][y] = mini;
+}
+int solve(int n, vector<vector<int>> grid){
+    //pseudo code
+    sieve(); // to get prime factors array
+    vector<vector<int>> vis; // n*n size ka ,intialized as 1
+    dp;
+    int ans = findComb(1,1,getNoOfPrimeFactors(grid[0][0]),grid,vis,dp);
+    return ans;
+}

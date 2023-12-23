@@ -1,0 +1,1 @@
+{"name":"Local: Equal_stacks","url":"c:\\Users\\ASUS\\Desktop\\Last codes\\Equal_stacks.cpp","tests":[{"id":1658676984831,"input":"5 3 4       \n3 2 1 1 1   \n4 3 2       \n1 1 4 1","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASUS\\Desktop\\Last codes\\Equal_stacks.cpp","group":"local","local":true}

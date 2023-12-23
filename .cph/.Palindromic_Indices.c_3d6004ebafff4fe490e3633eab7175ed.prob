@@ -1,0 +1,1 @@
+{"name":"Local: Palindromic_Indices","url":"c:\\Users\\admin\\OneDrive\\Desktop\\Last codes\\Palindromic_Indices.c","tests":[{"id":1654260373513,"input":"3\n3\naba\n8\nacaaaaca\n2\ndd\n","output":"1\n4\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\admin\\OneDrive\\Desktop\\Last codes\\Palindromic_Indices.c","group":"local","local":true}

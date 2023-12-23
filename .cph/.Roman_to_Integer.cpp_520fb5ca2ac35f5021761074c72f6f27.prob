@@ -1,0 +1,1 @@
+{"name":"Local: Roman_to_Integer","url":"c:\\Users\\ASUS\\Desktop\\Last codes\\Roman_to_Integer.cpp","tests":[{"id":1658829733292,"input":"LVIII","output":""},{"id":1658829897040,"input":"MCMXCIV","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASUS\\Desktop\\Last codes\\Roman_to_Integer.cpp","group":"local","local":true}

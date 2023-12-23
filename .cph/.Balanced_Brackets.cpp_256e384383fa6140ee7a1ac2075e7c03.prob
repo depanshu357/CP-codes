@@ -1,0 +1,1 @@
+{"name":"Local: Balanced_Brackets","url":"c:\\Users\\ASUS\\Desktop\\Last codes\\Balanced_Brackets.cpp","tests":[{"id":1658673641170,"input":"3               \n{[()]}          \n{[(])}          \n{{[[(())]]}}","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASUS\\Desktop\\Last codes\\Balanced_Brackets.cpp","group":"local","local":true}

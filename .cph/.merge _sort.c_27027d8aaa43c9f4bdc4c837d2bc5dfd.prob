@@ -1,0 +1,1 @@
+{"name":"Local: merge _sort","url":"c:\\Users\\admin\\OneDrive\\Desktop\\New folder\\merge _sort.c","tests":[{"id":1653806405455,"input":"6 12 11 13 5 6 7","output":"5 6 7 11 12 13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\admin\\OneDrive\\Desktop\\New folder\\merge _sort.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Insert_Delete_array","url":"c:\\Users\\ASUS\\Desktop\\Last codes\\Insert_Delete_array.c","tests":[{"id":1661251873476,"input":"5\n3 4 6 2 6\n2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASUS\\Desktop\\Last codes\\Insert_Delete_array.c","group":"local","local":true}
