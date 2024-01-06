@@ -65,7 +65,10 @@
         "complex": "cpp",
         "numeric": "cpp",
         "ratio": "cpp",
-        "random": "cpp"
+        "random": "cpp",
+        "barrier": "cpp",
+        "latch": "cpp",
+        "semaphore": "cpp"
     },
     "editor.mouseWheelZoom": true,
     "C_Cpp.errorSquiggles": "Enabled",
