@@ -6,7 +6,9 @@
                 "${workspaceFolder}/**",
                 "C:\\msys64\\mingw64\\include",
                 "C:/msys64/mingw64/include/c++/12.1.0",
-                "C:/msys64/mingw64/include/c++/12.1.0/x86_64-w64-mingw32"
+                "C:/msys64/mingw64/include/c++/12.1.0/x86_64-w64-mingw32",
+                "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include\\",
+                "${MSMPI_INC}"
             ],
             "defines": [
                 "_DEBUG",
@@ -16,8 +18,8 @@
             "windowsSdkVersion": "10.0.19041.0",
             "compilerPath": "C:/msys64/mingw64/bin/g++.exe",
             "cStandard": "c17",
-            "cppStandard": "c++14",
-            "intelliSenseMode": "windows-msvc-x64"
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-clang-arm64"
         }
     ],
     "version": 4
